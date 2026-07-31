@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Muhammad Paruk
+
 ### Backend and Software Engineer Enthusiast 🚀
 
 Di bawah ini adalah beberapa teknologi yang biasa aku gunakan:
@@ -10,13 +11,11 @@ Di bawah ini adalah beberapa teknologi yang biasa aku gunakan:
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparuk&show_icons=true&cache_seconds=1800)" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparuk&show_icons=true&theme=radical)
 
-### 📫 Let's Connect!
-- [Kunjungi Website Portofolioku](https://muhammadparuk.vercel.app)
-- [LinkedIn Profile](https://www.linkedin.com/in/muhammadparuk/)
+## 📫 Let's Connect!
 
+- [🌐 Website](https://muhammadparuk.vercel.app)
+- [💼 LinkedIn](https://www.linkedin.com/in/muhammadparuk/)
