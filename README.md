@@ -11,10 +11,6 @@ Di bawah ini adalah beberapa teknologi yang biasa aku gunakan:
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparuk&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 
 - [🌐 Website](https://muhammadparuk.vercel.app)
