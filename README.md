@@ -13,7 +13,7 @@ Di bawah ini adalah beberapa teknologi yang biasa aku gunakan:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mparuk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparuk&show_icons=true&cache_seconds=1800)" />
 </p>
 
 ### 📫 Let's Connect!
