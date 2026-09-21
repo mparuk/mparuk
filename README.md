@@ -12,7 +12,7 @@
       <td width="55%" valign="top">
         <h3 align="left">👨‍💻 About Me</h3>
         <p align="left" style="font-size: 1.1em; line-height: 1.6;">
-          Saya adalah mahasiswa aktif di <b style="color: #fff">BINUS University</b> (Angkatan B28) dengan jurusan <b style="color: #fff">Computer Science</b>. Saya memiliki ketertarikan mendalam pada dunia <b style="color: #fff">Software Engineering</b> dan fokus untuk mendalami peran sebagai <b style="color: #fff">Backend Developer</b>. Saat ini, saya aktif mengasah kemampuan dalam merancang serta mengembangkan sistem berbasis web yang efisien, handal, dan *scalable*.
+          Saya adalah mahasiswa aktif di <b style="color: #fff">BINUS University</b> (Angkatan B28) dengan jurusan <b style="color: #fff">Computer Science</b>. Saya memiliki ketertarikan mendalam pada dunia <b style="color: #fff">Software Engineering</b> dan fokus untuk mendalami peran sebagai <b style="color: #fff">Backend Developer</b>. Saat ini, saya aktif mengasah kemampuan dalam merancang serta mengembangkan sistem berbasis web yang efisien, handal, dan scalable.
         </p>
       </td>
       <td width="45%" valign="top">
