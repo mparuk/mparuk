@@ -46,7 +46,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadparuk&theme=codeSTACKr" alt="GitHub Profile Summary" />
-</div>
