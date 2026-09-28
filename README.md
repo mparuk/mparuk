@@ -1,15 +1,16 @@
 # Muhammad Paruk
 
-**Backend Developer | Software Engineer | Computer Science Student at BINUS University**
+**Computer Science Student Interested in Software Engineering & Backend Development**
 
-I am a Computer Science student at BINUS University with a strong interest in Software Engineering, particularly Backend Development. I enjoy building scalable web applications, designing efficient databases, and continuously improving my software engineering skills through academic projects and real-world development.
+Saya merupakan mahasiswa aktif Program Studi **Computer Science** di **BINUS University (B28)** yang memiliki minat pada bidang **Backend Development** dan **Software Engineering**. Saat ini saya sedang mempelajari serta mengembangkan kemampuan dalam membangun aplikasi web, merancang database, dan memahami proses pengembangan perangkat lunak melalui perkuliahan maupun proyek pribadi.
 
-## 👨‍💻 About Me
+## 👨‍💻 Tentang Saya
 
-- 🎓 Computer Science Student at **BINUS University (B28)**
-- 💻 Interested in **Backend Development** and **Software Engineering**
-- 🌱 Currently learning and improving my skills in backend architecture, API development, and database design
-- 🚀 Passionate about building efficient, maintainable, and scalable web applications
+* 🎓 Mahasiswa **Computer Science** di **BINUS University (B28)**
+* 💻 Memiliki ketertarikan pada **Backend Development** dan **Software Engineering**
+* 🌱 Sedang mempelajari pengembangan aplikasi web, REST API, dan perancangan database
+* 🚀 Senang mempelajari teknologi baru serta mengembangkan kemampuan melalui berbagai proyek dan pengalaman belajar
+* 🤝 Terbuka untuk kesempatan **magang (Internship)** agar dapat memperoleh pengalaman industri dan terus berkembang sebagai software engineer
 
 ---
 
