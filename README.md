@@ -37,7 +37,7 @@ Saya merupakan mahasiswa aktif Program Studi **Computer Science** di **BINUS Uni
 - Backend Development
 - RESTful API Development
 - Database Design
-- Web Application Development
+- Web Development
 - Software Engineering Best Practices
 
 ---
